@@ -26,6 +26,8 @@ public class Main {
         https://www.youtube.com/watch?v=dJuo7igM1v4
         https://javascopes.com/java-caesar-cipher-bbdeee8b/
         Немного информации с stackoverflow.com
+        https://habr.com/ru/post/260767/
+        https://3ty.ru/languages/java/sintaksis-yazyka-java
     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
